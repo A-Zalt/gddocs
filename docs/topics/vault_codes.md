@@ -1,6 +1,6 @@
 # Vault Codes
 
-In Geometry Dash 2.207, there are four different vaults you can access. The Vault, Vault of Secrets, The Chamber of Time and The Wraith. Each vault has a select number of passwords that you can enter to unlock icons and colors. However, the Wraith gives you orbs, shards and diamonds.
+In Geometry Dash 2.207, there are four different vaults you can access. The Vault, Vault of Secrets, The Chamber of Time and The Wraith. Each vault has a select number of passwords that you can enter to unlock icons and colors. However, the Wraith also gives you orbs, shards, diamonds and keys.
 
 ## Vault Code Encryption
 
