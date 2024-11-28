@@ -61,4 +61,5 @@ The Wraith: codes are server-side and can be added by RobTop at any time, but ca
 | thickofit      | 18 | 1 orb          |
 | touchgrass     | 19 | 1 earth shard  |
 | key            | 21 | 1 demon key    |
+| retrospective  | 24 | Ship #121      |
 | spacegauntlet  | 27 | 20 diamonds, 1 demon key, 2 metal shards |
