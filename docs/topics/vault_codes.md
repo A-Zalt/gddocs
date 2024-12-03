@@ -48,6 +48,9 @@ The Wraith: codes are server-side and can be added by RobTop at any time, but ca
 
 | Code           | ID | Rewards        |
 |----------------|----|----------------|
+| backondash     | 6  | Cube #409      |
+| geometry       | 7  | Ball #90       |
+| citadel        | 8  | Cube #231      |
 | robtopisnice   | 11 | 10 orbs        |
 | skibidi        | 12 | 1 orb          |
 | checksteam     | 13 | 1 demon key    |
@@ -57,4 +60,7 @@ The Wraith: codes are server-side and can be added by RobTop at any time, but ca
 | bussin         | 17 | 69 orbs        |
 | thickofit      | 18 | 1 orb          |
 | touchgrass     | 19 | 1 earth shard  |
-
+| key            | 21 | 1 demon key    |
+| retrospective  | 24 | Ship #121      |
+| spacegauntlet  | 27 | 20 diamonds, 1 demon key, 2 metal shards |
+| iaminpain      | 29 | 100 orbs, 10 diamonds |
