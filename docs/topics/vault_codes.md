@@ -63,5 +63,6 @@ The Wraith: codes are server-side and can be added by RobTop at any time, but ca
 | key            | 21 | 1 demon key    |
 | retrospective  | 24 | Ship #121      |
 | ruins          | 25 | Ball #91       |
+| cheatcodes     | 26 | UFO #138       |
 | spacegauntlet  | 27 | 20 diamonds, 1 demon key, 2 metal shards |
 | iaminpain      | 29 | 100 orbs, 10 diamonds |
