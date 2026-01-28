@@ -82,6 +82,8 @@ Salt: `oC36fpYaPtdg`
 
 The hash is generated the same way as getGJChallenges, with the exception of a different salt.
 
+This hash is also used for **getGJSecretReward** and **getGJDailyLevel** (only returned on type 2)
+
 Salt: `pC26fpYaQCtg`
 
 ## getGJLevelLists
